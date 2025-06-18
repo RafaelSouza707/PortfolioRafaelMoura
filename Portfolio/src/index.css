@@ -1,0 +1,28 @@
+b {
+    color: rgb(158, 158, 248);
+}
+
+p {
+    font-size: 1.1em;
+    font-family: 'Fira Code', monospace;
+}
+
+.sobreMim {
+    margin-bottom: 100px;
+}
+
+.linguagens {
+    margin-right: 100px;
+}
+
+li {
+    list-style: none;
+    font-family: 'Fira Code', monospace;
+}
+
+h1 {
+    font-family: 'Fira Code', monospace;
+}
+h3 {
+    font-style: oblique;
+}
